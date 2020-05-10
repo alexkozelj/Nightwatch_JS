@@ -1,0 +1,24 @@
+{
+  "name": "Nightwatch_JS",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexkozelj/Nightwatch_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexkozelj/Nightwatch_JS/issues"
+  },
+  "homepage": "https://github.com/alexkozelj/Nightwatch_JS#readme",
+  "devDependencies": {
+    "chromedriver": "^81.0.0",
+    "nightwatch": "^1.3.5"
+  }
+}
